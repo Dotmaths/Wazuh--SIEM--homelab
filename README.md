@@ -36,4 +36,18 @@ Wazuh SIEM to detect and monitor cyber attacks in real time.
 - Incident response basics
 
 ## Screenshots
+-  Executing test: T1070-1 Indicator Removal using FSUtil
+<img width="1269" height="256" alt="image" src="https://github.com/user-attachments/assets/cc2864a5-654c-4d25-a092-227ebf9b450d" />
+
+
+-  PowerShell Attack Caught
+<img width="1280" height="975" alt="image" src="https://github.com/user-attachments/assets/b5861e0a-18b0-4d6a-9646-dc544ffbc3e0" />
+
+
+- Executing cleanup for test
+<img width="1255" height="336" alt="image" src="https://github.com/user-attachments/assets/2f916534-a43c-44b7-b45b-a00c4f51fc49" />
+
+
+- Alert Dashboard
+<img width="1280" height="984" alt="image" src="https://github.com/user-attachments/assets/eef49086-c08c-456a-ad4f-25239166ce74" />
 
